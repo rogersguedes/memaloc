@@ -1,0 +1,36 @@
+.capitalize{
+	text-transform: capitalize;
+}
+.navbarLogoAnchor{
+	padding:0 0 0 8px !important;
+}
+.navbarLogoAnchor img{
+	width: 48px;
+}
+
+.col-md-4{
+	border: 1px solid black;
+}
+
+.simulationPainel{
+	margin-top: 20px;
+}
+
+.simulationTimeDiv{
+	font-size: 2em;
+}
+
+.tmeDiv{
+		font-size: 1.5em;
+}
+/*
+.well{
+	background-color: rgba(216, 216, 216, 0.96) !important
+}
+body{
+	background-image: url("../imgs/fortaleza_esporte_clube_1600x900_9477.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+*/
